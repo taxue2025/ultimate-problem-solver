@@ -1,95 +1,96 @@
-# AI Skills Collection
-
-A curated collection of AI assistant skills designed for creators, writers, and knowledge workers.
-
-## 🎯 Featured Skill: 极致高效问题解决器 (Ultimate Efficient Problem Solver)
-
-A skill that helps you solve problems with extreme efficiency. No fluff, no options, just the optimal solution.
-
-### Core Philosophy
+# 极致高效问题解决器
 
 **Problem → Solution. That's it.**
 
-No lengthy explanations, no multiple choices, no "it depends." 
-
-Give me a problem, I give you the best solution.
-
-### How It Works
-
-1. **Problem Redefinition**: Clarify what you're really trying to solve
-2. **Quick Analysis**: Assess based on available information
-3. **Targeted Questions**: At most 2 clarifying questions (if needed)
-4. **Optimal Solution**: One solution, not options, with key prerequisites
-
-### Output Format
-
-```
-Problem: [Clear, actionable problem statement]
-
-Solution: [One-sentence core solution]
-
-Quick Analysis: [Brief context assessment]
-
-Targeted Questions: (if needed)
-1. [Question 1]
-2. [Question 2]
-
-Optimal Solution:
-[Detailed actionable plan]
-
-Key Prerequisites: [What must be true for this to work]
-```
-
-### Example Use Cases
-
-- "How do I use AI to write weekly reports in 5 minutes instead of 1 hour?"
-- "What's the best business model for content creators?"
-- "How should beginners start using AI correctly?"
-
-## 📚 All Skills
-
-| Skill | Description | Use Case |
-|-------|-------------|----------|
-| **极致高效问题解决器** | Ultimate problem solver | Any problem needing direct solution |
-| **去AI味** | Remove AI tone from writing | Make AI-generated text sound human |
-| **共鸣文案生成器** | Resonance copywriting | Create emotionally engaging content |
-| **博主选题顾问** | Content topic advisor | Find the right topics for your audience |
-| **文案写手** | Professional copywriter | Write in specific styles |
-| **初稿转推文** | Draft to social media | Convert long content to short posts |
-| **商业实战博主** | Business content creator | Create practical business content |
-| **懂心理学的哲思伙伴** | Psychology-informed philosopher | Deep conversations with psychological insight |
-| **个人记忆** | Personal memory assistant | Remember and connect your experiences |
-| **Skill 设计师** | Skill designer | Create effective AI skills |
-
-## 🚀 Quick Start
-
-1. Copy any skill file content
-2. Paste into your AI assistant (Claude, ChatGPT, Kimi, etc.)
-3. Start using immediately
-
-## 📝 Usage Tips
-
-- **Be specific**: The more context you provide, the better the solution
-- **Iterate**: If the first answer isn't perfect, refine your question
-- **Mix and match**: Combine multiple skills for complex tasks
-
-## 🎨 Philosophy
-
-These skills are designed with:
-- **Clarity**: No ambiguity, clear instructions
-- **Efficiency**: Minimal steps, maximum output
-- **Practicality**: Real-world tested, not theoretical
-- **Human-centric**: Augment human ability, not replace it
-
-## 📄 License
-
-MIT License - Feel free to use, modify, and share.
-
-## 🤝 Contributing
-
-Skills are continuously refined based on real usage. Suggestions welcome!
+一个帮你用极致效率解决问题的 AI Skill。不铺垫，不解释，不给选项，只给最优解。
 
 ---
 
-*Created with ❤️ by 踏雪寻仙 (Taxue Xunxian)*
-*13 years of content creation, distilled into AI skills*
+## 核心哲学
+
+好内容让你被记住，持续产出让你被看见，运气让你被传播。
+
+这个 Skill 帮你：**控制能控制的，接受不能控制的。**
+
+---
+
+## 怎么用
+
+1. 复制 `极致高效问题解决器_SKILL.md` 的内容
+2. 粘贴到你的 AI 助手（Claude、ChatGPT、Kimi 等）
+3. 直接提问，获得最优解
+
+---
+
+## 输出格式
+
+```
+问题：[重新定义用户真正要解决的事]
+
+解法：[一句话概括最优解]
+
+初步分析：[基于现有信息的方向判断]
+
+关键提问：（如有必要，最多2个）
+1. [问题1]
+2. [问题2]
+
+最优解：
+[详细可执行方案]
+
+关键前提：[方案成立的前提条件]
+```
+
+---
+
+## 示例
+
+**用户输入**：
+> 我想用AI帮我写周报，但不知道怎么开始
+
+**Skill 输出**：
+
+**问题**：职场人如何用AI把写周报的时间从1小时压缩到5分钟？
+
+**解法**：设计一个"输入工作要点→AI自动生成→人工微调"的标准化流程。
+
+**初步分析**：写周报是高频重复任务，适合用AI自动化...
+
+（完整输出见 Skill 文件）
+
+---
+
+## 适用场景
+
+- ✅ 有目标无路径 → 给可执行策略
+- ✅ 需要AI做 → 直接给提示词
+- ✅ 两者都需要 → AI给提示词，人做给方案
+- ✅ 不适合AI或人 → 说清原因，指向更合适方式
+
+---
+
+## 设计原则
+
+- **不铺垫**：没有"理解了"、"好的"
+- **不解释**：不输出思考过程
+- **不给选项**：只给最优解
+- **不重复**：不重复用户的话
+- **直截了当**：最多2个关键提问
+
+---
+
+## 作者
+
+**踏雪寻仙** (Taxue Xunxian)
+
+13年内容创作，从记账小白到投资博主，从工具介绍到活人感写作。
+
+---
+
+## License
+
+MIT License - 自由使用、修改、分享。
+
+---
+
+**慢慢用，总有光。**
